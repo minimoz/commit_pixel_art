@@ -4,3 +4,4 @@ day 63 --- [2;0] : 2 makes 3 commits, 2 left
 day 63 --- [2;0] : 2 makes 3 commits, 1 left
 day 62 --- [3;0] : 2 makes 3 commits, 3 left
 day 62 --- [3;0] : 2 makes 3 commits, 2 left
+day 62 --- [3;0] : 2 makes 3 commits, 1 left
