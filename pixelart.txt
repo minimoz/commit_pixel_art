@@ -15,3 +15,4 @@ day 57 --- [1;1] : 2 makes 3 commits, 3 left
 day 57 --- [1;1] : 2 makes 3 commits, 2 left
 day 57 --- [1;1] : 2 makes 3 commits, 1 left
 day 54 --- [4;1] : 2 makes 3 commits, 3 left
+day 54 --- [4;1] : 2 makes 3 commits, 2 left
