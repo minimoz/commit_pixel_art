@@ -25,3 +25,4 @@ day 50 --- [1;2] : 2 makes 3 commits, 2 left
 day 50 --- [1;2] : 2 makes 3 commits, 1 left
 day 49 --- [2;2] : 4 makes 11 commits, 11 left
 day 49 --- [2;2] : 4 makes 11 commits, 10 left
+day 49 --- [2;2] : 4 makes 11 commits, 9 left
