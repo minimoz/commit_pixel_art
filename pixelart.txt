@@ -48,3 +48,4 @@ day 48 --- [3;2] : 4 makes 11 commits, 1 left
 day 47 --- [4;2] : 2 makes 3 commits, 3 left
 day 47 --- [4;2] : 2 makes 3 commits, 2 left
 day 47 --- [4;2] : 2 makes 3 commits, 1 left
+day 46 --- [5;2] : 2 makes 3 commits, 3 left
