@@ -80,3 +80,4 @@ day 32 --- [5;4] : 2 makes 3 commits, 2 left
 day 32 --- [5;4] : 2 makes 3 commits, 1 left
 day 29 --- [1;5] : 2 makes 3 commits, 3 left
 day 29 --- [1;5] : 2 makes 3 commits, 2 left
+day 29 --- [1;5] : 2 makes 3 commits, 1 left
