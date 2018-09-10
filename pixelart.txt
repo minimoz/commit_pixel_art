@@ -89,3 +89,4 @@ day 28 --- [2;5] : 4 makes 11 commits, 7 left
 day 28 --- [2;5] : 4 makes 11 commits, 6 left
 day 28 --- [2;5] : 4 makes 11 commits, 5 left
 day 28 --- [2;5] : 4 makes 11 commits, 4 left
+day 28 --- [2;5] : 4 makes 11 commits, 3 left
