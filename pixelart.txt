@@ -108,3 +108,4 @@ day 26 --- [4;5] : 2 makes 3 commits, 2 left
 day 26 --- [4;5] : 2 makes 3 commits, 1 left
 day 21 --- [2;6] : 2 makes 3 commits, 3 left
 day 21 --- [2;6] : 2 makes 3 commits, 2 left
+day 21 --- [2;6] : 2 makes 3 commits, 1 left
