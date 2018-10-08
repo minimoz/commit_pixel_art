@@ -1,5 +1,9 @@
 import os
 
+# This is the number of days before today your drawing will start (should be a Sunday)
+days = 65
+
+# This is your drawing
 pixelArt = [[0, 0, 2, 2, 2, 0, 0],
 			[0, 2, 2, 2, 2, 2, 0],
 			[2, 0, 4, 2, 0, 4, 2],
@@ -12,12 +16,10 @@ def colorToCommitNumber(color):
 	return {
         0: 0,
         1: 1,
-        2: 3,
+        2: 5,
         3: 7,
         4: 11
     }.get(color, 0)
-
-days = 65
 
 for y in range(0,7):
 	for x in range(0,7):
