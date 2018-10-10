@@ -53,3 +53,7 @@ And then push :
 <br />
 
 Enjoy 😜
+
+<br /><br />
+
+P.S: Any suggestions ? Any ideas ? Don't hesitate to contact me at arthur.grellard@gmail.com ! 😁
