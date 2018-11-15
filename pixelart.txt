@@ -310,3 +310,4 @@ day 237 --- [3;2] : 2 makes 5 commits, 2 left
 day 237 --- [3;2] : 2 makes 5 commits, 1 left
 day 230 --- [3;3] : 2 makes 5 commits, 5 left
 day 230 --- [3;3] : 2 makes 5 commits, 4 left
+day 230 --- [3;3] : 2 makes 5 commits, 3 left
