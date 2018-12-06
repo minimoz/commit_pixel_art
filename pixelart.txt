@@ -240,3 +240,4 @@ day 179 --- [3;6] : 2 makes 5 commits, 2 left
 day 179 --- [3;6] : 2 makes 5 commits, 1 left
 day 178 --- [4;6] : 2 makes 5 commits, 5 left
 day 178 --- [4;6] : 2 makes 5 commits, 4 left
+day 178 --- [4;6] : 2 makes 5 commits, 3 left
