@@ -454,3 +454,4 @@ day 172 --- [5;3] : 2 makes 5 commits, 3 left
 day 172 --- [5;3] : 2 makes 5 commits, 2 left
 day 172 --- [5;3] : 2 makes 5 commits, 1 left
 day 168 --- [2;4] : 2 makes 5 commits, 5 left
+day 168 --- [2;4] : 2 makes 5 commits, 4 left
