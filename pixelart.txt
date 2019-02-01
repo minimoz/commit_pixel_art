@@ -475,3 +475,4 @@ day 155 --- [1;0] : 2 makes 5 commits, 2 left
 day 155 --- [1;0] : 2 makes 5 commits, 1 left
 day 152 --- [4;0] : 2 makes 5 commits, 5 left
 day 152 --- [4;0] : 2 makes 5 commits, 4 left
+day 152 --- [4;0] : 2 makes 5 commits, 3 left
