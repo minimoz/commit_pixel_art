@@ -1,8 +1,8 @@
 import os
 
 # This is the number of days before today your drawing will start (should be a Sunday)
-# Helper : https://www.calculator.net/date-calculator.html
-days = 224
+# Helper : https://www.calculator.net/date-calculator.html (don't check "include end day")
+days = 254
 
 # This is your drawing
 pixelArtSpaceInvader = [[0, 0, 2, 2, 2, 0, 0],
